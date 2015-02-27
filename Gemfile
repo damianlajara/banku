@@ -1,4 +1,8 @@
 source 'https://rubygems.org'
+# a flexible authentication solution for Rails database
+gem 'devise'
+# easy rail forms
+gem 'simple_form'
 # Twitter bootstrap framework
 gem 'twitter-bootstrap-rails', '~> 3.2.0'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
